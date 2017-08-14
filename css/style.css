@@ -1,0 +1,38 @@
+.calendar-day_0 {
+
+}
+
+.calendar-day_1 {
+    
+}
+
+.calendar-day_2 {
+    
+}
+
+.calendar-day_3 {
+    
+}
+
+.calendar-day_4 {
+    
+}
+
+.calendar-day_5 {
+    
+}
+
+.calendar-day_6 {
+}
+
+.calendar-month {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width : 100px;
+    
+}
+
+.calendar-month br{
+    flex-basis: 100%;
+}
